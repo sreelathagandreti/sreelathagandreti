@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sreelatha Gandreti
+I'm Sreelatha Gandreti an enthuastic technology learner. Welcome to my github page. 
 
 - 🔭 I’m currently working on ...
   Softwe Engineering Bootcamp at [HyperionDev](https://www.hyperiondev.com/bootcamps/software-engineering/) and You can find my portfolio [here](https://www.hyperiondev.com/portfolio/130871/) 
